@@ -10,4 +10,5 @@ public class SqsproducerApplication {
 		SpringApplication.run(SqsproducerApplication.class, args);
 	}
 
+
 }
